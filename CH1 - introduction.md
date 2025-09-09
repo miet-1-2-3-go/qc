@@ -196,3 +196,10 @@ Quantum’s parallel processing power provides up to quadratic improvements in m
 Quantum computers also promise optimization breakthroughs across transportation, logistics, financial modelling, and engineering disciplines. Airlines can schedule crews and routes more efficiently saving millions, while banks can better model risk and construct profitable portfolios faster than before. In engineering, quantum promises materials, energy, and drug discoveries thanks to precise quantum physics simulations unavailable to traditional machines.
 
 We have only scratched the surface of the emerging quantum landscape. But this introduction outlines how quantum differs from classical systems and why its applications have such revolutionary potential. As quantum hardware and software continue maturing, we will cover additional developments in areas like algorithms, programming models, and early use cases. The quantum era is here – and an exciting computing future awaits.
+
+### 1.6 What is Qiskit?
+Released by IBM Research in 2017, Qiskit provides tools for creating and executing quantum algorithms at varying levels. It aims to make programming quantum computers accessible to broader audiences beyond just physicists.
+
+At its core, Qiskit enables composing, executing and optimizing quantum programs with clarity. It provides an intuitive way to build algorithms from low-level quantum operations all the way up to complex applications. This is accomplished through a modular, circuit-based paradigm representing workflows.
+
+Qiskit’s hardware-agnostic circuit representation ensures that developed quantum code can run across different physical machines. Whether using an IBM Quantum system, ion traps or newer technologies, flexibility is baked in. Capabilities also extend to simulation, education and research thanks to Aer elements providing blazing-fast simulators for debugging without hardware access. Powering Leading-Edge Quantum Innovation Intuitive Syntax Adapted from Python Enterprise Reliability and Support Accelerating Community Innovation Building the Foundations for the Future
